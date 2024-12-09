@@ -35,7 +35,7 @@ Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) in
 **Program:**
 ![Screenshot 2024-11-14 133511](https://github.com/user-attachments/assets/22abc19d-be4d-41bd-9671-e86ae31bbc5f)
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 
 
